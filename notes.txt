@@ -1,0 +1,8 @@
+To run the example from command line 
+
+root fitter_sample.C
+
+From inside root
+
+.X fitter_sample.C
+
